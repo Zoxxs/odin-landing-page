@@ -101,3 +101,21 @@ img {
 .box > div {
   padding: 20px;
 }
+
+.quote {
+  background-color: #E5E7EB;
+  padding: 150px 400px;
+}
+
+.quote-text {
+  color: #1F2937;
+  font-size: 36px;
+  font-style: italic;
+}
+
+.quote-autor {
+  font-size: 23px;
+  font-weight: 700;
+  text-align: right;
+  padding-right: 100px;
+}
