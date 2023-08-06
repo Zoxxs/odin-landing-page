@@ -70,3 +70,34 @@ img {
 .secondary {
   padding-bottom: 20px;
 }
+
+.info {
+  color: #1F2937;
+  font-weight: 800;
+  font-size: 36px;
+  text-align: center;
+  padding: 50px;
+}
+
+.illustation {
+  display: flex;
+  padding-left: 400px;
+  padding-right: 400px;
+}
+
+.box {
+  color: rgb(104, 104, 104);
+  font-size: 18px;
+  text-align: center;
+  padding-bottom: 100px;
+}
+
+.image-1 {
+  height: 200px;
+  width: 200px;
+  border-radius: 20px;
+}
+
+.box > div {
+  padding: 20px;
+}
